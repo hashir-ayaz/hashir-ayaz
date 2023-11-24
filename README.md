@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I'm Hashir Ayaz, i have experience with HTML,CSS and javaScript. I'm proficient in C++<br>🌱 I’m currently learning Python<br>
 
 
 ## 🌐 Socials:
