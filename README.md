@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hashir</h1>
-<h3 align="center">👋A developer fascinated by the web's possibilities. I've dabbled in everything from HTML, CSS and JavaScript to C++ and Java, but these days, I'm all about React and Node.js. I'm currently on a journey learning React, diving into its component-based magic to build better, more interactive web experiences. 🛠️ Currently, I'm working on creating a real-time chat app using React and exploring the wonders of WebSockets. 💬 I'm a firm believer in learning by doing and constantly pushing my limits. If you're into making cool stuff and exchanging ideas, let's connect!</h3>
+<h3 align="center">👋A developer fascinated by the web's possibilities. Experienced in React and Node. Have a good understanding of C++ & Java along with SpringBoot💬 I'm a firm believer in learning by doing and constantly pushing my limits. If you're into making cool stuff and exchanging ideas, let's connect!</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
