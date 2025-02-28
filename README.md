@@ -1,6 +1,6 @@
 
 ## Hi everyone! I'm Hashir, 
-I'm a software engineer. I excel at creating scalable full stack apps with a primary focus on backend and system design.<br>I'm currently learning how to build AI powered applications with langchain!
+A Software engineer passionate about crafting scalable solutions with JavaScript, Python, and C++. I specialize in Node.js, Flask, React, and Docker, leveraging tools like LangChain, Traefik, and AWS to build efficient backend systems, CI/CD pipelines, and containerized applications. Check out what I've built!
 
 
 ## 🌐 Socials:
