@@ -1,6 +1,6 @@
 
 ## Hi everyone! I'm Hashir, 
-A Software engineer passionate about crafting scalable solutions with JavaScript, Python, and C++. I specialize in Node.js, Flask, React, and Docker, leveraging tools like LangChain, Traefik, and AWS to build efficient backend systems, CI/CD pipelines, and containerized applications. Check out what I've built!
+A Software engineer passionate about crafting scalable solutions with JavaScript, Python, and C++. I specialize in Node.js, Nest/Express, Flask, React, and Docker, leveraging tools like LangChain, Traefik, and AWS to build efficient backend systems, CI/CD pipelines, and containerized applications. Check out what I've built!
 
 
 ## 🌐 Socials:
